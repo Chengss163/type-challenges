@@ -1,0 +1,1 @@
+type Join<T extends any[], U> =``
